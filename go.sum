@@ -1,0 +1,8 @@
+github.com/alexflint/go-arg v0.0.0-20180516182405-f7c0423bd11e h1:dzrBxLIjiq17Da9DhY3svGRhptiUg1LUzdkOuFYjAzA=
+github.com/alexflint/go-arg v0.0.0-20180516182405-f7c0423bd11e/go.mod h1:PHxo6ZWOLVMZZgWSAqBynb/KhIqoGO6WKwOVX7rM9dg=
+github.com/alexflint/go-scalar v0.0.0-20170216020425-e80c3b7ed292 h1:0YTMOir1UPjebSvNmIrEKO9FFd+RZc1wwZHUrxfn4BI=
+github.com/alexflint/go-scalar v0.0.0-20170216020425-e80c3b7ed292/go.mod h1:dgifnFPveotJNpwJdl1hDPu5vSuqVVUPIr3isfcvgBA=
+github.com/cirocosta/rawdns v0.0.0-20171230120028-028e50b60153 h1:ZjG0HeeQlygQaLPkRMMDuDvf/ZvqNpWiiRZ6e27Um/Q=
+github.com/cirocosta/rawdns v0.0.0-20171230120028-028e50b60153/go.mod h1:yzuqdbmJfZv9aykO/0dlUdeB2pYh1aVVT+vrrQPZEvM=
+github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
+github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
