@@ -29,7 +29,7 @@ func main() {
 		printIP(rrs)
 
 	case "POST", "post":
-		rrs, err := sendGETRequest(*server, *address)
+		rrs, err := sendPOSTRequest(*server, *address)
 		if err != nil {
 			log.Fatal(err)
 		}
