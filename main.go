@@ -1,3 +1,14 @@
+// DoH-reference-client is a learning project to get comfortable
+// with DNS-over-HTTP.
+//
+// It's written after the 14th edition of the IETF draft ``DNS Queries over HTTPS (DoH)``,
+// https://tools.ietf.org/html/draft-ietf-doh-dns-over-https-14.
+//
+// Each implementation detail is documented with a comment from the
+// corresponding section in the draft.
+//
+// This project is not meant to be used for anything else accept learning!
+//
 package main
 
 import (
