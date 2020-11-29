@@ -1,7 +1,5 @@
 # DNS-over-HTTP reference Client
 
-`go get go.pascaldierich.com/doh-reference-client`
-
 After I got interested in DNS-over-HTTP I looked at a few implementations.
 Obviously most of them are pretty complex and do a lot of things, so I started to take a look at the IETF draft "DNS Queries over HTTPS (DoH)"[1]
 and tried to implement it by my own. This is the result :).<p>
